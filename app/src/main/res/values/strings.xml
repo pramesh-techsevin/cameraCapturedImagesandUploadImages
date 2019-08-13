@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CameraCaptureAndUpload</string>
+    <string name="notificationtitle">Test Title</string>
+    <string name="channel_description">Channel Name</string>
 </resources>
